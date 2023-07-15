@@ -49,4 +49,5 @@ public class WhenCreatingObjects {
        assertThat(spot.play(), equalTo("plays with string"));
        assertThat(hazel.play(), equalTo("runs in wheel"));
     }
+
 }
